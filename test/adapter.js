@@ -8,3 +8,4 @@ var Promise = require('../Promise');
 exports.resolved = Promise.resolve;
 exports.rejected = Promise.reject;
 exports.deferred = Promise.defer;
+//only test don't care 
